@@ -1,6 +1,6 @@
 # BackgroundRemoval
 
-Built to remove background.
+Built to remove background with SelfiSegmentation.
 
 Images can be replaced with others to create more interesting harmony of background and person.
 
